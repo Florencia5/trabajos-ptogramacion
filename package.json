@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1"
+  },
+  "name": "auto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
